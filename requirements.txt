@@ -1,0 +1,19 @@
+# Core data science and image processing
+numpy>=1.26
+pandas>=2.2
+opencv-python>=4.10
+Pillow>=10.4
+matplotlib>=3.8
+scikit-learn>=1.4
+
+# Machine learning / deep learning
+tensorflow>=2.15
+
+# Web/API backend
+fastapi>=0.111
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+requests>=2.32
+
+# Utilities
+tqdm>=4.66

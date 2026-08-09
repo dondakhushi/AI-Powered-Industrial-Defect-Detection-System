@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+*.env
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+
+# Model files (large — handled separately)
+*.pt
+
+# Dataset (large — not pushed to GitHub)
+dataset/images/
+dataset/labels/
+
+# Uploads/results at runtime
+backend/uploads/
+backend/results/
