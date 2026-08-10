@@ -1,5 +1,3 @@
-# Dataset Selection — Day 3
-
 ## Selected Dataset
 
 NEU-DET (Northeastern University Surface Defect Database)
@@ -98,14 +96,10 @@ Dataset conversion and model training are planned for later days of the project.
 
 Kaggle — NEU-DET
 
-Dataset URL: [Paste the exact Kaggle URL used by the team]
+Dataset URL: (https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database)
 
 ## Download Date
 
 August 2026
 
-## Day 3 Status
 
-Dataset selection, acquisition, extraction, and initial structure verification completed.
-
-No model training was performed on Day 3.
