@@ -19,8 +19,9 @@ dist/
 *.pt
 
 # Dataset (large — not pushed to GitHub)
-dataset/images/
-dataset/labels/
+dataset/NEU-DET-raw/
+dataset/processed/images/
+dataset/processed/labels/
 
 # Uploads/results at runtime
 backend/uploads/
