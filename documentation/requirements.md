@@ -22,7 +22,7 @@ The system shall detect and classify industrial surface defects into the followi
 The system shall display detected defects using bounding boxes, defect class labels, and confidence scores.
 
 ### FR5. Inspection Result Storage
-The system shall store inspection results, including the uploaded image, detected defects, confidence scores, and timestamp in the MySQL database.
+The system shall store inspection results, including the uploaded image, detected defects, confidence scores, and timestamp in the MongoDB Atlas database.
 
 ### FR6. Inspection History
 The system shall provide a history page that displays previously performed inspections.
@@ -81,11 +81,12 @@ The system shall validate uploaded files and protect database credentials and ot
 
 - Python 3.x
 - Node.js 18+
-- MySQL 8.x
+- MongoDB Atlas
 - Flask
 - Ultralytics YOLO
 - OpenCV
-- SQLAlchemy
+- PyMongo
+- python-dotenv
 - React
 - Vite
 - Axios
@@ -95,7 +96,7 @@ The system shall validate uploaded files and protect database credentials and ot
 
 ## 5. Database Requirements
 
-The system shall use MySQL as the relational database management system.
+The system shall use MongoDB Atlas as the database management system.
 
 The database shall store:
 
