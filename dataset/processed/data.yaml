@@ -2,10 +2,5 @@ path: /workspaces/AI-Powered-Industrial-Defect-Detection-System/dataset/processe
 train: images/train
 val: images/val
 
-names:
-  0: crazing
-  1: inclusion
-  2: patches
-  3: pitted_surface
-  4: rolled-in_scale
-  5: scratches
+nc: 6
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']
