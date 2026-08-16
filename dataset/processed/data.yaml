@@ -1,4 +1,4 @@
-path: C:/Users/ritug/OneDrive/Desktop/AI-Powered-Industrial-Defect-Detection-System/dataset/processed
+path: /workspaces/AI-Powered-Industrial-Defect-Detection-System/dataset/processed
 train: images/train
 val: images/val
 
